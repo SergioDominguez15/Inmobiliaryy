@@ -1,0 +1,9 @@
+:host {
+  ::ng-deep ion-skeleton-text {
+    --background-rgb: 255, 0, 0;
+  }
+}
+
+ion-menu-button {
+  display: block;
+}
